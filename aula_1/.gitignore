@@ -87,7 +87,7 @@ venv
 
 # mkdocs documentation
 /site
-
+aula_1
 # mypy
 .mypy_cache/
 
